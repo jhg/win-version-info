@@ -55,6 +55,9 @@
   "engines": {
     "node": ">=14"
   },
+  "os": [
+    "win32"
+  ],
   "gypfile": true,
   "repository": "vweevers/win-version-info",
   "bugs": "https://github.com/vweevers/win-version-info/issues",
